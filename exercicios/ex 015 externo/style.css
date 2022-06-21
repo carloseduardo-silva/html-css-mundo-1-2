@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+    background-color: grey; font-size: 15px; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: khaki; font-style: italic;
+}
+
+h2{
+    color: gold;
+
+}
+p{
+    color: beige;
+}
